@@ -6,6 +6,8 @@ Calcola la media dal libretto online con la possibilità di aggiungere voti non 
 
 Copia e incolla il contenuto dello script `voti.jl` nella console del tuo browser (aprila con `F12` e seleziona la _tab_ `Console`).
 
+Per funzionare la pagina corrente del browser deve essere quella relativa al libretto online: *Area Studente* > *Libretto / Piano*.
+
 Per fare previsioni su possibili voti non ancora verbalizzati usa le funzioni `speculateVoteAlert`, per prevedere la media aggiungendo un solo voto,  e `speculateVotesAlert`, per prevederne la media aggiungendone più di uno, come segue:
 
 ```javascript
